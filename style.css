@@ -22,8 +22,8 @@ background-color: #2965f1;
 .header-span {
     padding: 23px 0px;
     font-weight: 700;
-font-size: 20px;
-color: #fff;
+    font-size: 20px;
+    color: #fff;
     /* Стили для текста в хедере IT-INCUBATOR */
 }
 
@@ -93,8 +93,8 @@ gap: 0px;
 width: 80px;
 height: 57px;
 list-style-image: none;
-padding: 0px 0px 0px 20px ;
-margin: 0px ;
+padding: 0px 20px ;
+
 /* Стили для маркированного списка во второй секции */
 }
 
