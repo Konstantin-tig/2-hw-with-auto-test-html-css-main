@@ -107,8 +107,7 @@ justify-content: flex-start;
 flex-direction: column;
 gap: 0px;
 list-style-image: none;
-padding: 0px 0px 0px 20px;
-margin: 0px;
+padding: 0px 20px;
 white-space: nowrap;
     /* Стили для нумерованного списка во второй секции */
 }
